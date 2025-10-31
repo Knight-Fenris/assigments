@@ -227,17 +227,3 @@ The API is configured to accept requests from:
 
 ---
 
-## Credits Breakdown
-
-| Assignment | Features | Credits |
-|------------|----------|---------|
-| Assignment 1 | Basic Task Manager | 10 |
-| Assignment 2 | Project Manager + Auth | 20 |
-| Assignment 3 | Smart Scheduler | 10 |
-| **Total** | | **40** |
-
----
-
-## License
-
-Created for PECFEST 2025 Assignment Submission
