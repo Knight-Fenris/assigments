@@ -1,3 +1,6 @@
+## Deployed at
+https://pathlockfrontend.vercel.app/
+
 # Assignment Project
 
 Full-stack project demonstrating three assignments with C# .NET 8 backend and React TypeScript frontend.
@@ -208,18 +211,3 @@ Full API documentation available at: `http://localhost:5000/swagger`
 - **Backend**: Azure App Service, Railway, or Render
 - **Frontend**: Vercel, Netlify, or GitHub Pages
 - **Database**: For production, replace in-memory DB with SQL Server, PostgreSQL, or SQLite
-
-## Credits Breakdown
-
-- **Assignment 1**: 10 credits
-- **Assignment 2**: 20 credits
-- **Assignment 3**: 10 credits
-- **Total**: 40 credits
-
-## License
-
-This project is for educational/assessment purposes.
-
-## Author
-
-Created for PECFEST 2025 Assignment Submission
