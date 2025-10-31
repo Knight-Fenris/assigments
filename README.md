@@ -3,6 +3,9 @@ https://testingribhav.pecfest.in
 or
 https://pathlockfrontend.vercel.app/
 
+The backend is hosted on Azure
+my-dotnet-api-demo.azurewebsites.net (F1 Machine)
+
 # Assignment Project
 
 Full-stack project demonstrating three assignments with C# .NET 8 backend and React TypeScript frontend.
