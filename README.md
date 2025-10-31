@@ -1,5 +1,5 @@
 ## Deployed at
-https://testingribhav.pecfest.in/assignment2/dashboard
+https://testingribhav.pecfest.in
 or
 https://pathlockfrontend.vercel.app/
 
