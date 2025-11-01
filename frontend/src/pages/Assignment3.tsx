@@ -9,7 +9,7 @@ interface Task {
   dependencies: string[];
 }
 
-const API_URL = 'http://localhost:5000/api/assignment3';
+const API_URL = 'https://my-dotnet-api-demo.azurewebsites.net/api/assignment3';
 
 function Assignment3() {
   const [tasks, setTasks] = useState<Task[]>([]);

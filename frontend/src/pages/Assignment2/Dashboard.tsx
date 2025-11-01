@@ -12,7 +12,7 @@ interface Project {
   taskCount: number;
 }
 
-const API_URL = 'http://localhost:5000/api/assignment2/projects';
+const API_URL = 'https://my-dotnet-api-demo.azurewebsites.net/api/assignment2/projects';
 
 function Dashboard() {
   const [projects, setProjects] = useState<Project[]>([]);

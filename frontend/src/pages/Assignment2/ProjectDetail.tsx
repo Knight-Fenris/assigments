@@ -21,7 +21,7 @@ interface ProjectDetail {
   tasks: Task[];
 }
 
-const API_URL = 'http://localhost:5000/api/assignment2';
+const API_URL = 'https://my-dotnet-api-demo.azurewebsites.net/api/assignment2';
 
 function ProjectDetail() {
   const { id } = useParams<{ id: string }>();

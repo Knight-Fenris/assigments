@@ -4,7 +4,7 @@ import axios from 'axios';
 import { useAuth } from '../../context/AuthContext';
 import { AlertCircle, Mail, Shield } from 'lucide-react';
 
-const API_URL = 'http://localhost:5000/api/assignment2/auth';
+const API_URL = 'https://my-dotnet-api-demo.azurewebsites.net/api/assignment2/auth';
 
 function Login() {
   const [email, setEmail] = useState('');

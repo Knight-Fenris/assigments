@@ -10,7 +10,7 @@ interface Task {
 
 type FilterType = 'all' | 'active' | 'completed';
 
-const API_URL = 'http://localhost:5000/api/assignment1/tasks';
+const API_URL = 'https://my-dotnet-api-demo.azurewebsites.net/api/assignment1/tasks';
 
 function Assignment1() {
   const [tasks, setTasks] = useState<Task[]>([]);
