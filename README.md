@@ -5,6 +5,7 @@ https://pathlockfrontend.vercel.app/
 
 The backend is hosted on Azure
 my-dotnet-api-demo.azurewebsites.net (F1 Machine)
+*The first api call may take long, as Azure halts the machine when not used
 
 # Assignment Project
 
